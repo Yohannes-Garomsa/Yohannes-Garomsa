@@ -163,7 +163,7 @@ I am a passionate **Full-Stack Developer** focused on building scalable and secu
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/Yohannes-Garomsa">
+<a href="www.linkedin.com/in/yohannes-garomsa-080990396">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
