@@ -1,6 +1,6 @@
 # Hi 👋 I'm Yohannes Garomsa
 
-🚀 Full Stack Developer  
+🚀 Full Stack Developer + Flutter Developer 
 💻 React • Django • Python  
 🔐 Cybersecurity Enthusiast  
 
@@ -178,6 +178,64 @@ I am a passionate **Full-Stack Developer** focused on building scalable and secu
 </p>
 
 ---
+# 🌐 Work With Me
 
-⭐ *“Building scalable systems with clean code and secure architecture.”*
+<p align="center">
+I design and build scalable SaaS systems with clean architecture and production mindset.
+</p>
 
+---
+
+## 💼 Let’s Connect
+
+<p align="center">
+
+<a href="mailto:yohannesgaromsa051@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/yohannes-garomsa-080990396">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yohannes-Garomsa">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Preferred Contact Method
+
+<p align="center">
+
+<a href="mailto:yohannesgaromsa051@gmail.com">
+<img src="https://img.shields.io/badge/📩%20Send%20Email%20Now-000000?style=for-the-badge&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+Fast response for internships, freelance work, and SaaS collaboration.
+</p>
+
+---
+
+## 🚀 Availability
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Available+for+Internships;Open+for+Freelance+Projects;Collaborating+on+SaaS+Products;Building+Scalable+Systems"/>
+</p>
+
+---
+
+## 💡 Philosophy
+
+> “Simple interfaces. Powerful systems. Scalable architecture.”
+
+---
+
+<p align="center">
+Minimal. Trusted. Production-ready.
+</p>
