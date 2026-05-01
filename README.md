@@ -4,7 +4,7 @@
 💻 React • Django • Python  
 🔐 Cybersecurity Enthusiast  
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React+%2B+Django+Engineer;Cybersecurity+Enthusiast;Open+Source+Contributor&center=true&width=800&height=45)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Flutter+Developer;React+%2B+Django+Engineer;Cybersecurity+Enthusiast;Open+Source+Contributor&center=true&width=800&height=45)
 
 ---
 
