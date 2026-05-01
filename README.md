@@ -4,9 +4,7 @@
 💻 React • Django • Python  
 🔐 Cybersecurity Enthusiast  
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Flutter+Developer;React+%2B+Django+Engineer;Cybersecurity+Enthusiast;Open+Source+Contributor&center=true&width=800&height=45)
 
----
 
 <!-- HERO SECTION -->
 
@@ -15,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+Full-Stack+Developer;React+%2B+Django+Engineer;Cybersecurity+Enthusiast;Building+Scalable+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+Full-Stack+Developer;Flutter+Developer;React+%2B+Django+Engineer;Cybersecurity+Enthusiast;Building+Scalable+Systems"/>
 </p>
 
 <p align="center">
