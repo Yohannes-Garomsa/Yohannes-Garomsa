@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer + Flutter Developer 
 💻 React • Django • Python  
-🔐 Cybersecurity Enthusiast  
+🔐 Cybersecurity Learner 
 
 
 
